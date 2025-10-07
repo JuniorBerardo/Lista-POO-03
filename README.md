@@ -40,17 +40,12 @@ Para compilar e executar qualquer um dos exercícios, siga os passos abaixo:
     cd lista-POO-03/Exercicio_1
     ```
 
-3.  **Compile o arquivo `.java`** usando o compilador Java:
+3.  **Execute o programa** compilado:
     ```bash
-    javac NomeDoArquivoPrincipal.java
+    java 
     ```
 
-4.  **Execute o programa** compilado:
-    ```bash
-    java NomeDoArquivoPrincipal
-    ```
 
-**Observação:** Substitua `NomeDoArquivoPrincipal` pelo nome do arquivo Java que contém o método `main` em cada exercício.
 
 ---
 
